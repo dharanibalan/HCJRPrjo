@@ -18,8 +18,9 @@ background-color: #009999;
     background-color: white;
 }
 
-.img-container h3{
+.img-container h2{
     color: white;
+    font-size: medium;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
