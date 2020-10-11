@@ -1,0 +1,92 @@
+.form1{
+position: absolute;
+display: flex;
+align-items: center;
+top: 10%;
+right:25%;
+width: 55%;
+border: 2px solid rgb(219, 218, 218);
+box-shadow: 2.5px 3px rgb(160, 160, 160);
+border-radius: 25px;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+background-color: #009999;
+}
+.LoginForm{
+    padding: 10px;    
+    width: 65%;
+    background-color: white;
+}
+
+.img-container h3{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.LoginPage h2
+{
+    color: #009999;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.login
+{
+  position: relative;
+  width: 90%;
+  padding: 5px 35px;
+  margin: 20px 0 45px 0;
+  border: none;
+  box-sizing: border-box;
+  border-bottom: 2px solid rgb(201, 196, 196);
+  background: transparent;
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+input[type="submit"]
+{
+    position: relative;
+    width: 65%;
+    padding: 10px;
+    margin: 25px 0 10px 0;
+    border-radius: 20px;
+    border-width: thin;
+    background: transparent;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #009999;
+    border: 1px solid #009999;
+}
+
+.img-container{
+    width: 35%;
+    height: 100%;
+    color: white;
+}
+.img-container img{
+    max-width: 45%;
+} 
+
+p.author{
+position: fixed;
+bottom: 2.5%;
+width: 100%;
+text-align: center;
+font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+.name{
+    color: #009999;
+}
+
+/*
+.img-container{
+    float: left; 
+            width: 100px; 
+            height: 100%; 
+            background-color:#009999;; 
+}
+
